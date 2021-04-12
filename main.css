@@ -4,6 +4,9 @@ body {
 	background-color: SteelBlue;
 	padding-top: 10px;
 	padding-left: 20px;
+	max-width: 640px;
+	margin: auto;
+	text-align: center;
 }
 
 h1 {

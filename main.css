@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body {
+	background-color: SteelBlue;
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+h1 {
+	color: white;
+	font-family: 'DM Sans', sans-serif;
+}
+
+p {
+	color: white;
+    font-family: 'DM Sans', sans-serif;
+}

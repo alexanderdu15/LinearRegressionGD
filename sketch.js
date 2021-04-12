@@ -61,7 +61,3 @@ function draw() {
 function reset() {
   data = [];
 }
-
-function undo() {
-  data.pop();
-}
